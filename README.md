@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **DSA Through C++**
 
-- 👯 I’m looking to collaborate on **ML and cloud projects**
+- 👯 I’m looking to collaborate on **ML and cloud  anf frontend projects**
 
-- 🤝 I’m looking for help with **ML projects**
+- 🤝 I’m looking for help with **ML & frontend projects**
 
 - 💬 Ask me about **ML & Cloud**
 
