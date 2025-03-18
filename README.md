@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaahnavi Kolli</h1>
-<h3 align="center">A passionate DATA ANALYST, ML and Cloud Engineer</h3>
+<h3 align="center">A passionate Frontend Developer, ML and Cloud Engineer</h3>
 
 <img align="right" alt="Coder GIF" height=270 width=300 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /> 
 
